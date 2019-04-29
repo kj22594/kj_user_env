@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"JSON Reindent",
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

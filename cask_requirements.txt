@@ -1,0 +1,12 @@
+1password
+caffeine
+docker
+evoluent-vertical-mouse-device-controller
+google-chrome
+java
+sequel-pro
+shiftit
+slack
+sublime-text
+wireshark
+yubico-authenticator
