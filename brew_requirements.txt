@@ -6,6 +6,7 @@ cmake
 dmd
 docker
 docker-machine
+dnote
 exa
 gcc
 git-secrets

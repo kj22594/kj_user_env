@@ -1,8 +1,10 @@
 #!/bin/bash
 
+brew tap dnote/dnote
+brew tap caskroom/cask
+
 xargs brew install < brew_requirements.txt
 
-brew tap caskroom/cask
 xargs brew cask install < cask_requirements.txt
 
 # https://github.com/riobard/bash-powerline
